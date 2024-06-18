@@ -23,5 +23,11 @@ A git működik lokálisan is. A fenti commandokat el lehet végezni távoli Git
 A céges gépen nem veszi észre a git a módosításokat, hiába vannak hozzáadva a githez. 
 
 A Brencselés teljesen új fogalom, eddig még nem használtam.
+Kommandok: 
+
+git branch new-branch   // ahol a new-branch az új branch neve
+git branch              // amivel ellenőrizni lehet a brancheket
+git checkout new-branch // amivel át lehet lépni az új branchbe 
+
 
 
