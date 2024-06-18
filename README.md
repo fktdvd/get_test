@@ -32,8 +32,10 @@ git checkout main       // visszaváltás a main-re
 git merge emergeny-fix  // egy branch bemergelése
 git branch -d emergeny-fix  // a mergelt branch törlése
 
-Eddig volt egy lokális git repositorim, amit most fel push - olok egy bitbucket felhőbe. 
+Eddig volt egy lokális git repositorim, amit most fel push - olok egy bitbucket felhőbe: 
 
+git remote add origin URL //Ahol az url a Bitbuket vagy GutHub repo linkje. Beállítja a távoli repot.
+git push --set-upstream origin main
 
 
 
