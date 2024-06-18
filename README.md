@@ -12,4 +12,9 @@ git init
 git status
 git add --all
 git commit -m "commit message"
+git commit -a -m "commit message"
 git log
+
+Kilépni a szöveg megjelenítőből :q val lehet.
+
+Ugyanezeket el lehet végezni a VSCode ba épült Source Control fülön
