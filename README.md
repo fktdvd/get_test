@@ -11,3 +11,5 @@ git --version
 git init
 git status
 git add --all
+git commit -m "commit message"
+git log
