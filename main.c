@@ -5,7 +5,7 @@
 int main(int argc, char const *argv[])
 {
     /* New2 */
-    /* Just test the git  */
+    //Error is fixed
 
     return 0;
 }
