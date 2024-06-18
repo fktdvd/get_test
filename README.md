@@ -32,6 +32,8 @@ git checkout main       // visszaváltás a main-re
 git merge emergeny-fix  // egy branch bemergelése
 git branch -d emergeny-fix  // a mergelt branch törlése
 
+Eddig volt egy lokális git repositorim, amit most fel push - olok egy bitbucket felhőbe. 
+
 
 
 
