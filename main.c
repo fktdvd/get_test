@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define TEST 1 
+
 
 int main(int argc, char const *argv[])
 {
