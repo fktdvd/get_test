@@ -18,3 +18,10 @@ git log
 Kilépni a szöveg megjelenítőből :q val lehet.
 
 Ugyanezeket el lehet végezni a VSCode ba épült Source Control fülön
+
+A git működik lokálisan is. A fenti commandokat el lehet végezni távoli Git felhő nélkül is. 
+A céges gépen nem veszi észre a git a módosításokat, hiába vannak hozzáadva a githez. 
+
+A Brencselés teljesen új fogalom, eddig még nem használtam.
+
+
